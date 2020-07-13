@@ -1,3 +1,8 @@
+# Awesome References
+Daftar referensi tautan-tautan berguna untuk mempelajari tentang startup.
+
+Reference list of useful links to learn about startup.
+
 # Website
 
 ## Bahasa
