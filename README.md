@@ -3,13 +3,14 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang startup.
 
 Reference list of useful links to learn about startup.
 
-# Website
+# Websites
 
 ## Bahasa
 - [Daily Social ID](https://dailysocial.id)
 - [Tech in Asia ID](https://id.techinasia.com)
 - [Startup Bisnis](https://startupbisnis.com)
 - [Amicis](https://www.amicis.co.id/blog)
+- [Startup Indonesia](https://startupindonesia.co)
 
 ## English
 - [Startup School](https://www.startupschool.org/library)
@@ -49,3 +50,30 @@ Reference list of useful links to learn about startup.
 ## English
 - [GGV Capital](https://open.spotify.com/show/7bQNcnto6EM3a1sDZzD1EB?si=xH5fcGfhSg2TbFgqXJ2J4Q)
 - [Atlanta Startup Podcast](https://open.spotify.com/show/7qCarYefliAPFpnNrGeqh1?si=bKgdvr0eSoaquJBbHPxrsQ)
+
+# Instagram Accounts
+
+## Bahasa
+- [Techin Asia ID](https://www.instagram.com/techinasia_id)
+- [Indigo](https://www.instagram.com/indigo4nation)
+- [1000Startup Digital](https://www.instagram.com/1000startupdigital)
+- [Daily Social ID](https://www.instagram.com/dailysocial.id)
+- [Plug and Play](https://www.instagram.com/plugandplayindonesia)
+- [Soloconvalley](https://www.instagram.com/soloconvalley)
+- [Startup Kita](https://www.instagram.com/startupkita)
+- [Pedals](https://www.instagram.com/pedals.id)
+- [Startup Indonesia](https://www.instagram.com/startupindonesia_co)
+- [Dilo](https://www.instagram.com/dilo.id)
+- [Rintisan Startup](https://www.instagram.com/rintisanstartup)
+- [Anak Startup](https://www.instagram.com/anak.startup)
+
+## English
+- [Foundr](https://www.instagram.com/foundr)
+- [Tech in Asia](https://www.instagram.com/techinasia)
+- [Startup](https://www.instagram.com/startup)
+
+# Books
+- [Startup Pedia](https://www.goodreads.com/book/show/26534629-startuppedia)
+- [Lean Startup](http://theleanstartup.com)
+- [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
+- [Sprint](https://www.thesprintbook.com)
