@@ -77,3 +77,6 @@ Reference list of useful links to learn about startup.
 - [Lean Startup](http://theleanstartup.com)
 - [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
 - [Sprint](https://www.thesprintbook.com)
+- [100 Startup](https://www.goodreads.com/book/show/12605157-the-100-startup)
+- [Start to Up](https://ebooks.gramedia.com/id/buku/start-to-up-let's-change-and-make-your-move)
+- [Dari Start-Up menuju Unicorn](https://www.goodreads.com/book/show/48568439-dari-start-up-menuju-unicorn)
